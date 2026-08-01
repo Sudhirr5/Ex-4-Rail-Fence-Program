@@ -64,7 +64,7 @@ int main()
 ```
 
 # OUTPUT
-<img width="1793" height="800" alt="Screenshot 2026-07-25 at 9 34 26 AM" src="https://github.com/user-attachments/assets/6c81cbe4-a14d-4e1e-8516-54e455a8ffd7" />
+<img width="370" height="181" alt="Screenshot 2026-08-01 084410" src="https://github.com/user-attachments/assets/110b4d90-2db1-48c9-84a3-b711f12b8410" />
 
 # RESULT
 Thus,the program is verified successfully.
